@@ -16,7 +16,7 @@ The goal of this project is to build a machine learning model that can effective
 
 ## 🗂️ Repository Structure
 
-- `email_spam_detection.ipynb`: Jupyter Notebook containing the code, explanations, and visualizations for the email spam detection project.
+- `Email spam detection with Machine Learning.ipynb`: Jupyter Notebook containing the code, explanations, and visualizations for the email spam detection project.
 - `spam.csv`: CSV file containing the email dataset used for training and testing the model.
 
 ## 📋 Requirements
