@@ -1,4 +1,4 @@
-# Sales Prediction
+# 📈 Sales Prediction
 
 This project focuses on predicting sales using advertising data. The objective is to develop a model that can accurately estimate sales based on advertising expenditures.
 
@@ -14,14 +14,14 @@ The goal of this project is to build a machine learning model that can effective
 
 4. Model Evaluation: Evaluate the trained model using various metrics such as R-squared, adjusted R-squared, and the F-statistic. Perform residual analysis to assess the model's performance and validity.
 
-## Repository Structure
+## 🗂️ Repository Structure
 
-- `sales_prediction.ipynb`: Jupyter Notebook containing the code, explanations, and visualizations for the sales prediction project.
+- `Sales Prediction.ipynb`: Jupyter Notebook containing the code, explanations, and visualizations for the sales prediction project.
 - `advertising.csv`: CSV file containing the advertising dataset used for training and testing the model.
 
 Feel free to explore the Jupyter Notebook (`sales_prediction.ipynb`) for more details, including the code implementations, data analysis, and model evaluation.
 
-## Requirements
+## 💻 Requirements
 
 To run the code and reproduce the results, you need the following dependencies:
 
